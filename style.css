@@ -1,22 +1,16 @@
-#matriz {
-    background-color: rgb(94, 199, 34);
+.matriz {
+    background-color: rgb(25, 215, 117);
     font-family:verdana;
 }
 
 #plantas {
-    background-color: rgb(177, 194, 81);
+    background-color: rgb(58, 210, 16);
     font-family:verdana;
 }
 
-.img {
-    background-color: rgb(177, 194, 81);
+#frutos {
+    background-color: rgb(199, 41, 10);
     font-family:verdana;
 }
-
-.imagen {
-    background-color: rgb(172, 12, 12);
-    font-family:verdana;
-}
-
 
 
