@@ -14,3 +14,64 @@
 }
 
 
+p, h2, h3 {
+    font-family: verdana;}
+
+    #productos {
+        margin: 50px 20px 30px 20px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px;
+    }
+    body {
+       background-image: url('/Valle_Verde_Vivero/Images/frutales.jpg');
+       background-repeat:repeat-x;
+      /*
+       background-repeat:repeat-y
+       background-repeat:auto
+       background-repeat:no-repeat*/
+    
+       background-position:right top;
+         background-attachment:fixed;
+         background-size:200px auto;
+
+
+    }
+    .locales h3 {
+        border-style: dotted left right ;
+        borde-size: 2px;
+    }
+
+    p.uno {
+        border-style: solid;
+        border-width: 1px;
+        border-color: black;
+    }
+    p.dos {
+        border-style: dashed;
+        border-width: 2px;
+        border-color: blue;
+    }
+    p.tres {
+        border-style: double;
+        border-width: 3px;
+        border-color: red;
+    }
+    p.cuatro {
+        border-style: groove;
+        border-width: 4px;
+        border-color: green;
+    }
+
+    p.margin {
+        background-color: darkviolet;
+        margin: 20px 50px 60px 20px;
+
+    }
+    p.margin_dos {
+        background-color:burlywood
+        margin-top: 20px;
+        
+    }
