@@ -67,11 +67,65 @@ p, h2, h3 {
 
     p.margin {
         background-color: darkviolet;
-        margin: 20px 50px 60px 20px;
+        margin: 2px 50px 30px 50px;
+
+    }
+    p.margin {
+        background-color:burlywood;
+        margin-top: 2px;
+        margin-bottom: 30px;
+        margin-left: 50px;
+        margin-right: 50px;  
+    }
+
+    p.margin {
+        background-color:aqua;
+        margin: 2px 50px 30px 50px;
 
     }
     p.margin_dos {
-        background-color:burlywood
-        margin-top: 20px;
-        
+        background-color:darkred;
+        margin-top: 2px;
+        margin-bottom: 30px;
+        margin-left: 50px;
+        margin-right: 50px;  
     }
+    p.padding {
+        background-color: darkviolet;
+        padding: 2px 50px 30px 50px;
+
+    }
+    p.padding {
+        background-color:darkorange;
+        padding-top: 2px;
+        padding-bottom: 30px;
+        padding-left: 50px;
+        padding-right: 50px;  
+    }
+    p.padding {
+        background-color:aqua;
+        padding: 2px 50px 30px 50px;
+
+    }
+    p.padding_dos {
+        background-color:darkred;
+        padding-top: 2px;
+        padding-bottom: 30px;
+        padding-left: 50px;
+        padding-right: 50px;  
+    }
+
+
+    .tamano p {
+        background-color: green;
+        height: 100px;
+        width: 300px;
+
+    }
+
+    max-width: 100px;
+    max-height 100px;
+
+
+
+
